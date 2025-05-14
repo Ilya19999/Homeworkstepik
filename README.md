@@ -1,1 +1,5 @@
-Данный репозиторий является хранилищем домашнего задания из курса автоматизации на stepik
+# Pytest Selenium Language Test
+
+## Установка зависимостей
+```bash
+pip install -r requirements.txt
